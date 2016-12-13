@@ -1,0 +1,10 @@
+C:\Code\CSharp\DemoCalculator\calcdemo\DemoCalc\bin\Debug\DemoCalculator.exe.config
+C:\Code\CSharp\DemoCalculator\DemoCalc\bin\Debug\DemoCalculator.exe.config
+C:\Code\CSharp\DemoCalculator\DemoCalc\bin\Debug\DemoCalculator.exe
+C:\Code\CSharp\DemoCalculator\DemoCalc\bin\Debug\DemoCalculator.pdb
+C:\Code\CSharp\DemoCalculator\DemoCalc\obj\Debug\DemoCalc.csprojResolveAssemblyReference.cache
+C:\Code\CSharp\DemoCalculator\DemoCalc\obj\Debug\DemoCalc.NormalCalc.resources
+C:\Code\CSharp\DemoCalculator\DemoCalc\obj\Debug\DemoCalculator.Properties.Resources.resources
+C:\Code\CSharp\DemoCalculator\DemoCalc\obj\Debug\DemoCalc.csproj.GenerateResource.Cache
+C:\Code\CSharp\DemoCalculator\DemoCalc\obj\Debug\DemoCalculator.exe
+C:\Code\CSharp\DemoCalculator\DemoCalc\obj\Debug\DemoCalculator.pdb
